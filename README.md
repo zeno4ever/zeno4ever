@@ -15,7 +15,7 @@ Privacy advocate ([wifi tracking in Enschede](http://daveborghuis.nl/wp/wifi-tra
 - my github (You are here so found this already ;-) )
 
 # Social media 
-- Mostly active on [Twitter](https://twitter.com/daveborghuis) 
-- [Mastodon.Social](https://mastodon.social/@zeno4ever)
+- Mostly active on [Mastodon.Social](https://mastodon.social/@zeno4ever) 
+- [Twitter](https://twitter.com/daveborghuis) 
 - [Instagram](https://www.instagram.com/daveborghuis/)
 - [Facebook](https://www.facebook.com/daveborghuis)
